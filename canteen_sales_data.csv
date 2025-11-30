@@ -1,0 +1,91 @@
+Date,Day_of_Week,Event,Veg_Patties,Pizza_Slice,Veg_Sandwich,Chicken_Burger,Fruit_Juice
+2023-09-01,Friday,Normal,35,33,58,43,75
+2023-09-02,Saturday,Saturday Rush,60,37,66,60,81
+2023-09-03,Sunday,Weekend,0,0,0,0,0
+2023-09-04,Monday,Normal,37,24,52,40,50
+2023-09-05,Tuesday,Normal,44,20,47,31,79
+2023-09-06,Wednesday,Normal,57,27,44,43,51
+2023-09-07,Thursday,Normal,45,23,58,30,67
+2023-09-08,Friday,Normal,32,43,49,29,63
+2023-09-09,Saturday,Saturday Rush,57,36,64,48,102
+2023-09-10,Sunday,Weekend,0,0,0,0,0
+2023-09-11,Monday,Normal,39,30,56,25,54
+2023-09-12,Tuesday,Normal,50,27,41,29,65
+2023-09-13,Wednesday,Normal,59,20,58,39,65
+2023-09-14,Thursday,Normal,50,20,54,35,51
+2023-09-15,Friday,Normal,37,46,55,26,60
+2023-09-16,Saturday,Saturday Rush,54,36,78,45,103
+2023-09-17,Sunday,Weekend,0,0,0,0,0
+2023-09-18,Monday,Normal,41,26,44,29,56
+2023-09-19,Tuesday,Normal,42,29,55,33,66
+2023-09-20,Wednesday,Normal,40,25,43,25,77
+2023-09-21,Thursday,Normal,32,27,53,28,54
+2023-09-22,Friday,Sports Day,31,46,53,42,124
+2023-09-23,Saturday,Saturday Rush,61,31,63,46,75
+2023-09-24,Sunday,Weekend,0,0,0,0,0
+2023-09-25,Monday,Normal,33,26,54,34,65
+2023-09-26,Tuesday,Normal,49,21,42,33,74
+2023-09-27,Wednesday,Normal,46,24,51,41,80
+2023-09-28,Thursday,Normal,41,30,53,42,70
+2023-09-29,Friday,Normal,33,48,41,27,62
+2023-09-30,Saturday,Saturday Rush,70,45,81,60,85
+2023-10-01,Sunday,Weekend,0,0,0,0,0
+2023-10-02,Monday,Normal,41,21,44,38,59
+2023-10-03,Tuesday,Normal,45,30,46,37,50
+2023-10-04,Wednesday,Normal,63,28,47,44,74
+2023-10-05,Thursday,Normal,40,28,54,42,58
+2023-10-06,Friday,Sports Day,37,43,59,40,100
+2023-10-07,Saturday,Saturday Rush,45,42,61,39,85
+2023-10-08,Sunday,Weekend,0,0,0,0,0
+2023-10-09,Monday,Normal,34,22,55,45,78
+2023-10-10,Tuesday,Normal,36,21,40,32,59
+2023-10-11,Wednesday,Normal,45,27,51,33,69
+2023-10-12,Thursday,Normal,45,24,43,43,80
+2023-10-13,Friday,Rainy Day,35,24,37,23,18
+2023-10-14,Saturday,Saturday Rush,75,40,72,63,84
+2023-10-15,Sunday,Weekend,0,0,0,0,0
+2023-10-16,Monday,Normal,36,30,44,39,55
+2023-10-17,Tuesday,Normal,50,20,60,32,79
+2023-10-18,Wednesday,Normal,58,23,51,37,68
+2023-10-19,Thursday,Rainy Day,30,14,37,25,23
+2023-10-20,Friday,Normal,45,33,56,43,59
+2023-10-21,Saturday,Saturday Rush,45,45,88,37,82
+2023-10-22,Sunday,Weekend,0,0,0,0,0
+2023-10-23,Monday,Normal,36,22,48,41,58
+2023-10-24,Tuesday,Normal,50,25,55,45,74
+2023-10-25,Wednesday,Normal,65,27,45,33,52
+2023-10-26,Thursday,Normal,35,25,58,45,68
+2023-10-27,Friday,Rainy Day,29,26,35,28,24
+2023-10-28,Saturday,Saturday Rush,55,40,76,67,102
+2023-10-29,Sunday,Weekend,0,0,0,0,0
+2023-10-30,Monday,Sports Day,34,28,45,25,134
+2023-10-31,Tuesday,Normal,37,30,41,35,53
+2023-11-01,Wednesday,Normal,46,23,52,37,57
+2023-11-02,Thursday,Normal,34,30,41,34,77
+2023-11-03,Friday,Normal,47,38,59,45,79
+2023-11-04,Saturday,Saturday Rush,72,36,67,46,82
+2023-11-05,Sunday,Weekend,0,0,0,0,0
+2023-11-06,Monday,Normal,39,28,49,34,56
+2023-11-07,Tuesday,Normal,35,26,50,34,80
+2023-11-08,Wednesday,Normal,46,27,43,39,77
+2023-11-09,Thursday,Normal,47,25,46,41,66
+2023-11-10,Friday,Normal,44,41,57,34,76
+2023-11-11,Saturday,Saturday Rush,51,45,85,43,85
+2023-11-12,Sunday,Weekend,0,0,0,0,0
+2023-11-13,Monday,Sports Day,49,25,45,25,122
+2023-11-14,Tuesday,Normal,47,20,51,36,52
+2023-11-15,Wednesday,Normal,63,26,45,37,65
+2023-11-16,Thursday,Normal,41,27,54,34,50
+2023-11-17,Friday,Normal,42,48,55,28,71
+2023-11-18,Saturday,Saturday Rush,52,45,73,57,114
+2023-11-19,Sunday,Weekend,0,0,0,0,0
+2023-11-20,Monday,Normal,41,27,57,33,65
+2023-11-21,Tuesday,Normal,34,26,40,30,70
+2023-11-22,Wednesday,Normal,44,26,58,35,50
+2023-11-23,Thursday,Normal,39,29,50,40,68
+2023-11-24,Friday,Normal,35,48,55,34,55
+2023-11-25,Saturday,Saturday Rush,72,37,85,58,111
+2023-11-26,Sunday,Weekend,0,0,0,0,0
+2023-11-27,Monday,Normal,48,30,58,27,56
+2023-11-28,Tuesday,Normal,42,27,44,34,77
+2023-11-29,Wednesday,Normal,41,28,45,27,53
